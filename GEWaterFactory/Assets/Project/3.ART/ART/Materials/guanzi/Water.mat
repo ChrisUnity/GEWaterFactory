@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Water
+  m_Shader: {fileID: 4800000, guid: 0d56559fc2c13c246bf7972f9097474c, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 739882336b7d4374ca5371f8feeb0f6e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EdgeTex:
+        m_Texture: {fileID: 2800000, guid: 9711d69f7c60fc24db6fcbef6e7be317, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FoamTex:
+        m_Texture: {fileID: 2800000, guid: 072061635545dfe4ebeabb06038635bf, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Gradient:
+        m_Texture: {fileID: 2800000, guid: 59da90ebf70e9a948ae397da127b87ab, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 59da90ebf70e9a948ae397da127b87ab, type: 3}
+        m_Scale: {x: 4, y: 4}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex:
+        m_Texture: {fileID: 2800000, guid: e790f5c0d8731da4994816e49e7836ce, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalTex:
+        m_Texture: {fileID: 2800000, guid: bd077c013fa3a194ab4bb5de130101d0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Sky:
+        m_Texture: {fileID: 8900000, guid: add25f48a27ac4d4da8d43d90499a6a2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WaveTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Alpha: 0.57
+    - _BumpPower: 0.6
+    - _ColorDepth: 0.51
+    - _EdgeRange: 0.3
+    - _Fresnel: 1.37
+    - _Gloss: 1.97
+    - _Intensity: 0.1
+    - _Light: 1.1
+    - _NormalScale: 0.51
+    - _Specular: 1.55
+    - _WaveSize: 0.06
+    - _WaveSpeed: 3.4
+    - _XSpeed: -0.02
+    - _YSpeed: 0.02
+    m_Colors:
+    - _Color: {r: 0.70215183, g: 0.81448734, b: 0.8602941, a: 0.922}
+    - _Color0: {r: 0.9558824, g: 0, b: 0, a: 1}
+    - _Color1: {r: 0.36764705, g: 0.23518598, b: 0.23518598, a: 1}
+    - _EdgeColor: {r: 0, g: 1, b: 1, a: 0}
+    - _FarColor: {r: 0.2, g: 1, b: 1, a: 0.3}
+    - _FoamColor: {r: 0.5722318, g: 0.6931214, b: 0.7941176, a: 1}
+    - _FoamParams: {r: 0.66, g: 0.36, b: 0.33, a: 0.09}
+    - _LightColor: {r: 1, g: 1, b: 1, a: 1}
+    - _LightDir: {r: 0, g: 0, b: 0, a: 0}
+    - _LightVector: {r: 0.5, g: 0.5, b: 0.5, a: 100}
+    - _SpecColor: {r: 0.08088237, g: 0.9619674, b: 1, a: 1}
+    - _Speed: {r: 0.27, g: 1.31, b: 0.78, a: 0.24}
+    - _WaterColor: {r: 0.1418685, g: 0.4300389, b: 0.60294116, a: 1}
+    - _WaveOffset: {r: 0.1, g: 0.2, b: -0.2, a: -0.1}
+    - _WaveParams: {r: 0.42, g: 0.36, b: 0.12, a: 0.25}

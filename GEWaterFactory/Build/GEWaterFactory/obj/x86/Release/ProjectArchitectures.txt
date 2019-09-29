@@ -1,0 +1,1 @@
+E:\CHX\Work\TestHololens\TestHololens\Build\GEWaterFactory\GEWaterFactory.csproj;x86
