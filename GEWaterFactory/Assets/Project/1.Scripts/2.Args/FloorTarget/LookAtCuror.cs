@@ -140,6 +140,7 @@ public class LookAtCuror : MonoBehaviour, IInputClickHandler
             transform.SetParent(origin);
 
             ChangePos(targetObj.transform.localPosition, targetObj.transform.localEulerAngles);
+            ProjectEntry.Instance.VirtualHumanSpeak();
         }
     }
 

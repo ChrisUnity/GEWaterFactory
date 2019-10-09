@@ -1,0 +1,650 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: New Avatar Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: DeformationSystem
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/Hip_L_endSlider0
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/Hip_L_endSlider1
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/Hip_L_endSlider2
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/Hip_L_endSlider3
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/HipPart1_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Ankle_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Ankle_L/Ankle_L_endSlider0
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Ankle_L/Ankle_L_endSlider1
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Ankle_L/Ankle_L_endSlider2
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Ankle_L/Ankle_L_endSlider3
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Ankle_L/Toes_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Ankle_L/Toes_L/ToesEnd_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Ankle_L_Slide00Offset
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Ankle_L_Slide00Offset/Ankle_L_Slide00
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Ankle_L_Slide50
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Ankle_L_Slide50/Ankle_L_middleSlider0
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Ankle_L_Slide50/Ankle_L_middleSlider1
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Ankle_L_Slide50/Ankle_L_middleSlider2
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Ankle_L_Slide50/Ankle_L_middleSlider3
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Ankle_L_startSlider0
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Ankle_L_startSlider1
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Ankle_L_startSlider2
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Ankle_L_startSlider3
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Knee_L_endSlider0
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Knee_L_endSlider2
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L_Slide00Offset
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L_Slide00Offset/Knee_L_Slide00
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L_Slide50
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L_Slide50/Knee_L_middleSlider0
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L_Slide50/Knee_L_middleSlider2
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L_startSlider0
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L_startSlider2
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L_Slide00Offset
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L_Slide00Offset/Hip_L_Slide00
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L_Slide50
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L_Slide50/Hip_L_middleSlider0
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L_Slide50/Hip_L_middleSlider1
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L_Slide50/Hip_L_middleSlider2
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L_Slide50/Hip_L_middleSlider3
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L_startSlider0
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L_startSlider1
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L_startSlider2
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_L_startSlider3
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/Hip_R_endSlider0
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/Hip_R_endSlider1
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/Hip_R_endSlider2
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/Hip_R_endSlider3
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/HipPart1_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Ankle_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Ankle_R/Ankle_R_endSlider0
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Ankle_R/Ankle_R_endSlider1
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Ankle_R/Ankle_R_endSlider2
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Ankle_R/Ankle_R_endSlider3
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Ankle_R/Toes_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Ankle_R/Toes_R/ToesEnd_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Ankle_R_Slide00Offset
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Ankle_R_Slide00Offset/Ankle_R_Slide00
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Ankle_R_Slide50
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Ankle_R_Slide50/Ankle_R_middleSlider0
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Ankle_R_Slide50/Ankle_R_middleSlider1
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Ankle_R_Slide50/Ankle_R_middleSlider2
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Ankle_R_Slide50/Ankle_R_middleSlider3
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Ankle_R_startSlider0
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Ankle_R_startSlider1
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Ankle_R_startSlider2
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Ankle_R_startSlider3
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Knee_R_endSlider0
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Knee_R_endSlider2
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R_Slide00Offset
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R_Slide00Offset/Knee_R_Slide00
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R_Slide50
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R_Slide50/Knee_R_middleSlider0
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R_Slide50/Knee_R_middleSlider2
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R_startSlider0
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R_startSlider2
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R_Slide00Offset
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R_Slide00Offset/Hip_R_Slide00
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R_Slide50
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R_Slide50/Hip_R_middleSlider0
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R_Slide50/Hip_R_middleSlider1
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R_Slide50/Hip_R_middleSlider2
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R_Slide50/Hip_R_middleSlider3
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R_startSlider0
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R_startSlider1
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R_startSlider2
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/Hip_R_startSlider3
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/L_skirt_B_01_BND
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/L_skirt_B_01_BND/L_skirt_B_02_BND
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/L_skirt_B_01_BND/L_skirt_B_02_BND/L_skirt_B_03_BND
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/L_skirt_B_01_BND/L_skirt_B_02_BND/L_skirt_B_03_BND/L_skirt_B_04_BND
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/L_skirt_B_01_BND/L_skirt_B_02_BND/L_skirt_B_03_BND/L_skirt_B_04_BND/L_skirt_B_05_BND
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/L_skirt_F_01_BND
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/L_skirt_F_01_BND/L_skirt_F_02_BND
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/L_skirt_F_01_BND/L_skirt_F_02_BND/L_skirt_F_03_BND
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/L_skirt_F_01_BND/L_skirt_F_02_BND/L_skirt_F_03_BND/L_skirt_F_04_BND
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/L_skirt_F_01_BND/L_skirt_F_02_BND/L_skirt_F_03_BND/L_skirt_F_04_BND/L_skirt_F_05_BND
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/L_skirt_S_01_BND
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/L_skirt_S_01_BND/L_skirt_S_02_BND
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/L_skirt_S_01_BND/L_skirt_S_02_BND/L_skirt_S_03_BND
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/L_skirt_S_01_BND/L_skirt_S_02_BND/L_skirt_S_03_BND/L_skirt_S_04_BND
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/L_skirt_S_01_BND/L_skirt_S_02_BND/L_skirt_S_03_BND/L_skirt_S_04_BND/L_skirt_S_05_BND
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/R_skirt_B_01_BND
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/R_skirt_B_01_BND/R_skirt_B_02_BND
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/R_skirt_B_01_BND/R_skirt_B_02_BND/R_skirt_B_03_BND
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/R_skirt_B_01_BND/R_skirt_B_02_BND/R_skirt_B_03_BND/R_skirt_B_04_BND
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/R_skirt_B_01_BND/R_skirt_B_02_BND/R_skirt_B_03_BND/R_skirt_B_04_BND/R_skirt_B_05_BND
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/R_skirt_F_01_BND
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/R_skirt_F_01_BND/R_skirt_F_02_BND
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/R_skirt_F_01_BND/R_skirt_F_02_BND/R_skirt_F_03_BND
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/R_skirt_F_01_BND/R_skirt_F_02_BND/R_skirt_F_03_BND/R_skirt_F_04_BND
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/R_skirt_F_01_BND/R_skirt_F_02_BND/R_skirt_F_03_BND/R_skirt_F_04_BND/R_skirt_F_05_BND
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/R_skirt_S_01_BND
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/R_skirt_S_01_BND/R_skirt_S_02_BND
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/R_skirt_S_01_BND/R_skirt_S_02_BND/R_skirt_S_03_BND
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/R_skirt_S_01_BND/R_skirt_S_02_BND/R_skirt_S_03_BND/R_skirt_S_04_BND
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/R_skirt_S_01_BND/R_skirt_S_02_BND/R_skirt_S_03_BND/R_skirt_S_04_BND/R_skirt_S_05_BND
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Neck_M
+    m_Weight: 0
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Neck_M/NeckPart1_M
+    m_Weight: 0
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Neck_M/NeckPart1_M/Head_M
+    m_Weight: 0
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Neck_M/NeckPart1_M/Head_M/Braid_001_BND
+    m_Weight: 0
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Neck_M/NeckPart1_M/Head_M/Braid_001_BND/Braid_002_BND
+    m_Weight: 0
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Neck_M/NeckPart1_M/Head_M/Braid_001_BND/Braid_002_BND/Braid_003_BND
+    m_Weight: 0
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Neck_M/NeckPart1_M/Head_M/Braid_001_BND/Braid_002_BND/Braid_003_BND/Braid_004_BND
+    m_Weight: 0
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Neck_M/NeckPart1_M/Head_M/Braid_001_BND/Braid_002_BND/Braid_003_BND/Braid_004_BND/Braid_005_BND
+    m_Weight: 0
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Neck_M/NeckPart1_M/Head_M/Braid_001_BND/Braid_002_BND/Braid_003_BND/Braid_004_BND/Braid_005_BND/Braid_006_BND
+    m_Weight: 0
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Neck_M/NeckPart1_M/Head_M/Braid_001_BND/Braid_002_BND/Braid_003_BND/Braid_004_BND/Braid_005_BND/Braid_006_BND/Braid_007_BND
+    m_Weight: 0
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Neck_M/NeckPart1_M/Head_M/Braid_001_BND/Braid_002_BND/Braid_003_BND/Braid_004_BND/Braid_005_BND/Braid_006_BND/Braid_007_BND/Braid_008_BND
+    m_Weight: 0
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Neck_M/NeckPart1_M/Head_M/HeadEnd_M
+    m_Weight: 0
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Neck_M/NeckPart1_M/Head_M/L_Brow_001_CON
+    m_Weight: 0
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Neck_M/NeckPart1_M/Head_M/L_Brow_002_CON
+    m_Weight: 0
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Neck_M/NeckPart1_M/Head_M/L_Brow_003_CON
+    m_Weight: 0
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Neck_M/NeckPart1_M/Head_M/L_Socket_BND
+    m_Weight: 0
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Neck_M/NeckPart1_M/Head_M/R_Brow_001_CON
+    m_Weight: 0
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Neck_M/NeckPart1_M/Head_M/R_Brow_002_CON
+    m_Weight: 0
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Neck_M/NeckPart1_M/Head_M/R_Brow_003_CON
+    m_Weight: 0
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Neck_M/NeckPart1_M/Head_M/R_Socket_BND
+    m_Weight: 0
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/Elbow_L_endSlider0
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/Elbow_L_endSlider2
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/Cup_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/Cup_L/PinkyFinger1_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/Cup_L/PinkyFinger1_L/PinkyFinger2_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/Cup_L/PinkyFinger1_L/PinkyFinger2_L/PinkyFinger3_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/Cup_L/PinkyFinger1_L/PinkyFinger2_L/PinkyFinger3_L/PinkyFinger4_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/Cup_L/RingFinger1_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/Cup_L/RingFinger1_L/RingFinger2_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/Cup_L/RingFinger1_L/RingFinger2_L/RingFinger3_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/Cup_L/RingFinger1_L/RingFinger2_L/RingFinger3_L/RingFinger4_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/IndexFinger1_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/IndexFinger1_L/IndexFinger2_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/IndexFinger1_L/IndexFinger2_L/IndexFinger3_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/IndexFinger1_L/IndexFinger2_L/IndexFinger3_L/IndexFinger4_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/MiddleFinger1_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/MiddleFinger1_L/MiddleFinger2_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/MiddleFinger1_L/MiddleFinger2_L/MiddleFinger3_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/MiddleFinger1_L/MiddleFinger2_L/MiddleFinger3_L/MiddleFinger4_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/ThumbFinger1_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/ThumbFinger1_L/ThumbFinger2_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/ThumbFinger1_L/ThumbFinger2_L/ThumbFinger3_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/ThumbFinger1_L/ThumbFinger2_L/ThumbFinger3_L/ThumbFinger4_L
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/Wrist_L_endSlider0
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/Wrist_L_endSlider1
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/Wrist_L_endSlider2
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/Wrist_L_endSlider3
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L_Slide00Offset
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L_Slide00Offset/Wrist_L_Slide00
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L_Slide50
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L_Slide50/Wrist_L_middleSlider0
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L_Slide50/Wrist_L_middleSlider1
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L_Slide50/Wrist_L_middleSlider2
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L_Slide50/Wrist_L_middleSlider3
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L_startSlider0
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L_startSlider1
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L_startSlider2
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L_startSlider3
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L_Slide00Offset
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L_Slide00Offset/Elbow_L_Slide00
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L_Slide50
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L_Slide50/Elbow_L_middleSlider0
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L_Slide50/Elbow_L_middleSlider2
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L_startSlider0
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L_startSlider2
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_L/Shoulder_L_Slide00Offset
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/Elbow_R_endSlider0
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/Elbow_R_endSlider2
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/Cup_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/Cup_R/PinkyFinger1_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/Cup_R/PinkyFinger1_R/PinkyFinger2_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/Cup_R/PinkyFinger1_R/PinkyFinger2_R/PinkyFinger3_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/Cup_R/PinkyFinger1_R/PinkyFinger2_R/PinkyFinger3_R/PinkyFinger4_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/Cup_R/RingFinger1_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/Cup_R/RingFinger1_R/RingFinger2_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/Cup_R/RingFinger1_R/RingFinger2_R/RingFinger3_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/Cup_R/RingFinger1_R/RingFinger2_R/RingFinger3_R/RingFinger4_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/IndexFinger1_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/IndexFinger1_R/IndexFinger2_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/IndexFinger1_R/IndexFinger2_R/IndexFinger3_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/IndexFinger1_R/IndexFinger2_R/IndexFinger3_R/IndexFinger4_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/MiddleFinger1_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/MiddleFinger1_R/MiddleFinger2_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/MiddleFinger1_R/MiddleFinger2_R/MiddleFinger3_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/MiddleFinger1_R/MiddleFinger2_R/MiddleFinger3_R/MiddleFinger4_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/ThumbFinger1_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/ThumbFinger1_R/ThumbFinger2_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/ThumbFinger1_R/ThumbFinger2_R/ThumbFinger3_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/ThumbFinger1_R/ThumbFinger2_R/ThumbFinger3_R/ThumbFinger4_R
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/Wrist_R_endSlider0
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/Wrist_R_endSlider1
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/Wrist_R_endSlider2
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/Wrist_R_endSlider3
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R_Slide00Offset
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R_Slide00Offset/Wrist_R_Slide00
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R_Slide50
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R_Slide50/Wrist_R_middleSlider0
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R_Slide50/Wrist_R_middleSlider1
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R_Slide50/Wrist_R_middleSlider2
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R_Slide50/Wrist_R_middleSlider3
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R_startSlider0
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R_startSlider1
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R_startSlider2
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R_startSlider3
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R_Slide00Offset
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R_Slide00Offset/Elbow_R_Slide00
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R_Slide50
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R_Slide50/Elbow_R_middleSlider0
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R_Slide50/Elbow_R_middleSlider2
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R_startSlider0
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R_startSlider2
+    m_Weight: 1
+  - m_Path: DeformationSystem/Root_M/RootPart1_M/Spine1_M/Spine1Part1_M/Chest_M/Scapula_R/Shoulder_R_Slide00Offset
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Body_GEO_GRP
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Body_GEO_GRP/Body_GEO
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Body_GEO_GRP/Brow_GEO_GRP
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Body_GEO_GRP/Eye_GEO_GRP
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Body_GEO_GRP/Eye_GEO_GRP/L_Eye_Offest_GRP
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Body_GEO_GRP/Eye_GEO_GRP/L_Eye_Offest_GRP/L_Eye_GEO_GRP
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Body_GEO_GRP/Eye_GEO_GRP/R_Eye_Offest_GRP
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Body_GEO_GRP/Eye_GEO_GRP/R_Eye_Offest_GRP/R_Eye_GEO_GRP
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Body_GEO_GRP/Eyelash_GEO_GRP
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Body_GEO_GRP/GE_head
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Cloth_GEO_GRP
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Cloth_GEO_GRP/Business_Attire_GRP
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Cloth_GEO_GRP/Business_Attire_GRP/Business_Belt_GEO
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Cloth_GEO_GRP/Business_Attire_GRP/Business_BeltButton_GEO
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Cloth_GEO_GRP/Business_Attire_GRP/Business_Button01_GEO
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Cloth_GEO_GRP/Business_Attire_GRP/Business_Button02_GEO
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Cloth_GEO_GRP/Business_Attire_GRP/Business_Ring_GEO
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Cloth_GEO_GRP/Business_Attire_GRP/Business_Shirt_GEO
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Cloth_GEO_GRP/Business_Attire_GRP/Business_Skirt_GEO
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Cloth_GEO_GRP/Casual_Wear_GRP
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Cloth_GEO_GRP/Casual_Wear_GRP/Jean_GEO_GRP
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Cloth_GEO_GRP/Casual_Wear_GRP/T_Shirt_GEO_GRP
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Cloth_GEO_GRP/Casual_Wear_GRP/T_Shirt_GEO_GRP/T_Shirt_Button01_GEO
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Cloth_GEO_GRP/Casual_Wear_GRP/T_Shirt_GEO_GRP/T_Shirt_Button02_GEO
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Cloth_GEO_GRP/Necklace_GEO_GRP
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Cloth_GEO_GRP/Necklace_GEO_GRP/NecklaceGem_GEO
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Cloth_GEO_GRP/Necklace_GEO_GRP/NecklaceLine_GEO
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Cloth_GEO_GRP/Shoe_GEO_GRP
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Cloth_GEO_GRP/Shoe_GEO_GRP/L_Shoe_GEO_GRP
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Cloth_GEO_GRP/Shoe_GEO_GRP/L_Shoe_GEO_GRP/L_ShoeBottom_GEO
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Cloth_GEO_GRP/Shoe_GEO_GRP/L_Shoe_GEO_GRP/L_ShoeHeel_GEO
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Cloth_GEO_GRP/Shoe_GEO_GRP/L_Shoe_GEO_GRP/L_ShoeTop_GEO
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Cloth_GEO_GRP/Shoe_GEO_GRP/R_Shoe_GEO_GRP
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Cloth_GEO_GRP/Shoe_GEO_GRP/R_Shoe_GEO_GRP/R_ShoeBottom_GEO
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Cloth_GEO_GRP/Shoe_GEO_GRP/R_Shoe_GEO_GRP/R_ShoeHeel_GEO
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/Cloth_GEO_GRP/Shoe_GEO_GRP/R_Shoe_GEO_GRP/R_ShoeTop_GEO
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/HairStyle_02_GRP
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/HairStyle_02_GRP/haiLongr_ProxyGeo_GRP
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/HairStyle_02_GRP/haiLongr_ProxyGeo_GRP/hair_binjiao_geo_GRP
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/HairStyle_02_GRP/haiLongr_ProxyGeo_GRP/hair_Braid_thick_geo_GRP
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/HairStyle_02_GRP/haiLongr_ProxyGeo_GRP/hair_Braid_thick_geo_GRP/hair_Braid_thick_08_geo
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/HairStyle_02_GRP/haiLongr_ProxyGeo_GRP/hair_Braid_thin_geo_GRP
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/HairStyle_02_GRP/haiLongr_ProxyGeo_GRP/hair_Braid_thin_geo_GRP/hair_Braid_thin_001_geo
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/HairStyle_02_GRP/haiLongr_ProxyGeo_GRP/hair_Braid_thin_geo_GRP/hair_Braid_thin_002_geo001
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/HairStyle_02_GRP/haiLongr_ProxyGeo_GRP/hair_Braid_thin_geo_GRP/hair_Braid_thin_003_geo
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/HairStyle_02_GRP/haiLongr_ProxyGeo_GRP/hair_Braid_thin_geo_GRP/hair_Braid_thin_004_geo
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/HairStyle_02_GRP/haiLongr_ProxyGeo_GRP/hair_Braid_thin_geo_GRP/hair_Braid_thin_005_geo
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/HairStyle_02_GRP/haiLongr_ProxyGeo_GRP/hair_Braid_thin_geo_GRP/hair_Braid_thin_007_geo
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/HairStyle_02_GRP/haiLongr_ProxyGeo_GRP/hair_Braid_thin_geo_GRP/hair_Braid_thin_008_geo
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/HairStyle_02_GRP/haiLongr_ProxyGeo_GRP/hair_Braid_thin_geo_GRP/hair_Braid_thin_009_geo
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/HairStyle_02_GRP/haiLongr_ProxyGeo_GRP/hair_Braid_thin_geo_GRP/hair_Braid_thin_010_geo
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/HairStyle_02_GRP/haiLongr_ProxyGeo_GRP/hair_Braid_thin_geo_GRP/hair_Braid_thin_011_geo
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/HairStyle_02_GRP/haiLongr_ProxyGeo_GRP/hair_Braid_thin_geo_GRP/hair_Braid_thin_012_geo
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/HairStyle_02_GRP/haiLongr_ProxyGeo_GRP/hair_Braid_thin_geo_GRP/hair_Braid_thin_013_geo
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/HairStyle_02_GRP/haiLongr_ProxyGeo_GRP/hair_Braid_thin_geo_GRP/hair_Braid_thin_014_geo
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/HairStyle_02_GRP/haiLongr_ProxyGeo_GRP/hair_Braid_thin_geo_GRP/hair_Braid_thin_015_geo
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/HairStyle_02_GRP/haiLongr_ProxyGeo_GRP/hair_Braid_thin_geo_GRP/hair_Braid_thin_016_geo
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/HairStyle_02_GRP/haiLongr_ProxyGeo_GRP/hair_main_thick_geo_GRP
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/HairStyle_02_GRP/haiLongr_ProxyGeo_GRP/hair_main_thick_geo_GRP/hair_main_thick_004_geo
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/HairStyle_02_GRP/haiLongr_ProxyGeo_GRP/hair_main_thin_geo_GRP
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/HairStyle_02_GRP/haiLongr_ProxyGeo_GRP/hair_main_thin_geo_GRP/hair_main_thin_061_geo002
+    m_Weight: 1
+  - m_Path: Woman_GEO_GRP/HairStyle_02_GRP/headrope_geo
+    m_Weight: 1

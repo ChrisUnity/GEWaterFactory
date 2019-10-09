@@ -10,10 +10,26 @@ public class UIManager : SingleInstance<UIManager> {
         //ResourceManager.Instance.MoveBtn.onClick.AddListener(() => { CameraManager.Instance.DisableCamera(); });
         //ResourceManager.Instance.StopMoveBtn.onClick.AddListener(() => { CameraManager.Instance.EnableCamera(); });
 
-        ResourceManager.Instance.LocalBtn.onClick.AddListener(() => {ProjectEntry.Instance.ShowWorld(); });
+        ResourceManager.Instance.LocalBtn.onClick.AddListener(() =>
+        {
+            ProjectEntry.Instance.LocalRunMode();
+            HideStartCanvas();
+
+        });
+        ResourceManager.Instance.IpadBtn.onClick.AddListener(() =>
+        {
+            //ProjectEntry.Instance.ShowWorld();
+            ProjectEntry.Instance.ServerRunMode();
+            HideStartCanvas();
+        });
 
 
 
+    }
+
+    public void HideStartCanvas()
+    {
+        ResourceManager.Instance.StartCanvas.SetActive(false);
     }
 
 }

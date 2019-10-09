@@ -57,6 +57,7 @@ public class ProjectEntry :MonoBehaviour {
         //单机禁用hololens内打印
         MYDialog.Instance.DisableMe();
         //MrShareData._instance.needLocated = true;
+        MrShareData._instance.needLocated = true;
     }
 
     public void ServerRunMode()
@@ -143,10 +144,11 @@ public class ProjectEntry :MonoBehaviour {
 
     public void ShowWorld()
     {
+
         ResourceManager.Instance.World.SetActive(true);
-        ResourceManager.Instance.Canvas.SetActive(false);
         VirtualHumanSpeak();
     }
+    
 
     public void VirtualHumanSpeak()
     {
